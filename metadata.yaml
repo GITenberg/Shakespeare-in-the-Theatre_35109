@@ -1,0 +1,29 @@
+_repo: Shakespeare-in-the-Theatre_35109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poel, William
+    alias: Pole, William
+    birthdate: 1852
+    deathdate: 1934
+    gutenberg_agent_id: '37462'
+    url: http://www.gutenberg.org/2009/agents/37462
+description: The stage of Shakespeare -- The plays of Shakespeare -- Some state versions
+  -- The national theatre.
+gutenberg_issued: '2011-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Theater -- England'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stage history'
+title: Shakespeare in the Theatre
+url: http://www.gutenberg.org/ebooks/35109
