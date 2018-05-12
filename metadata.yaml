@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37462
 description: The stage of Shakespeare -- The plays of Shakespeare -- Some state versions
   -- The national theatre.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35109#Shakespeare-in-the-Theatre
 gutenberg_issued: '2011-01-29'
 gutenberg_type: Text
 identifiers:
